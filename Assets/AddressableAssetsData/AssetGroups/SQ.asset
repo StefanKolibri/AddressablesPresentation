@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SQ
+  m_EditorClassIdentifier: 
+  m_GroupName: SQ
+  m_Data:
+    m_SerializedData: []
+  m_GUID: cd39c68ee8157fb4c9dc267369459f97
+  m_SerializeEntries:
+  - m_GUID: f69d665dfcd9a0f4784297f6a8be0f58
+    m_Address: Textures/Blue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SQ
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8eead6eca02b7114d89e66924d9534f3, type: 2}
+  m_SchemaSet:
+    m_Schemas: []

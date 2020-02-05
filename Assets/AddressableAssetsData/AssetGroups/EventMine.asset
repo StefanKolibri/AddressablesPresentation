@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: EventMine
+  m_EditorClassIdentifier: 
+  m_GroupName: EventMine
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6dfda8d3808e87e4bb3cc5b130e7c2a0
+  m_SerializeEntries:
+  - m_GUID: 36669f6ed980afb4a8f32243f22f77c3
+    m_Address: EventMineBG.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EventMine
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_GUID: 55729b505916af64b8ad6dfa89f80a72
+    m_Address: EventMineReward.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EventMine
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8eead6eca02b7114d89e66924d9534f3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d197028ac0515364e993a763d8be91f9, type: 2}
+    - {fileID: 11400000, guid: dfbdd44eec41c0d4f9c6867e634870a0, type: 2}
